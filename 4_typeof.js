@@ -1,0 +1,13 @@
+console.log(typeof 10);
+console.log(typeof "Nikita");
+console.log(typeof true);
+console.log(typeof undefined);
+console.log(typeof null);
+console.log(typeof {});
+console.log(typeof []);
+console.log(typeof function(){});
+console.log(typeof Symbol());
+console.log(typeof NaN);
+console.log(typeof Infinity);
+console.log(typeof -Infinity);
+console.log(typeof new Date());
